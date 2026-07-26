@@ -19,7 +19,7 @@
     "framer-motion": "^12.4.10",
     "i18next": "^24.2.2",
     "next": "16.2.6",
-    "next-auth": "^4.24.11",
+    "next-auth": "^4.24.15",
     "postgres": "^3.4.5",
     "react": "19.0.0",
     "react-dom": "19.0.0",
